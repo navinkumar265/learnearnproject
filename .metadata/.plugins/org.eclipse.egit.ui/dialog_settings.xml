@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<list key="CommitDialog.authorValues">
+		<item value="NavinKumarD &lt;navinkumar.d@acheron-tech.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="NavinKumarD &lt;navinkumar.d@acheron-tech.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Mohanapriya-20/learnearn-batch-service"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\NavinkumarD\git\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+	<section name="GitImportWizard">
+	</section>
+</section>
